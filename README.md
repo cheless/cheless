@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cheless
-- 👀 My cat's name is FuGuiPig
-- 🌱 I’m currently learning golang and distributed system.
+- 👀 My cat's name is FuGui
+- 🌱 I’m currently learning FaaS.
 - 📫 email: chyc09@163.com
 
 <!---
