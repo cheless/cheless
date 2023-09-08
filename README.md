@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @cheless
-- 👀 My cat's name is FuGui
 - 🌱 I’m currently learning FaaS.
 - 📫 email: chyc09@163.com
 
